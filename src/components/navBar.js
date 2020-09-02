@@ -9,7 +9,7 @@ export class NavBar extends React.Component {
         <div className="Header">
           <ul className="NavBar">
             <li>
-              <Link className="ButtonLike" to="/">
+              <Link className="ButtonLike" to="/home">
                 Inicio
               </Link>
             </li>
